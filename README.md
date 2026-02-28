@@ -24,7 +24,7 @@ O objetivo deste portifólio é demonstrar na prática meus conhecimentos em:
 Portifólio_DBA
 
 
-|--- Administração SQL Server
+|--- Banco de dados
 
 |--- Linguagem SQL
 
