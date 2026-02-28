@@ -1,11 +1,6 @@
 # Portifolio_DBA
 Portifólio de Administração de bancos de dados SQL Server
 
-
-# Portifolio_DBA
-
-Portifólio de Administração de bancos de dados SQL Server
-
 Bem-vindo ao meu portifólio de estudos e projetos em **Administração de Banco de dados SQL Server**
 Este repositório reúne scripts, consultas, práticas e mini-projetos que desenvolvi durante minha jornada de aprendizado para a carreira de **DBA SQL Server**
 
@@ -68,7 +63,4 @@ Data: yyyy-mm-dd
 Descrição: O que o script faz
 
 Versão: 1.0
-
-Histórico:
-1.0 - Criação do script
 */
