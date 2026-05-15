@@ -10,9 +10,6 @@ O objetivo deste portifólio é demonstrar na prática meus conhecimentos em:
 - Linguagem SQL
 - Segurança
 - Backup e Restore
-- Monitoramento e Perfomance
-- Automatização de tarefas
-- Alta Disponibilidade
 
 ## 📁 Estrutura do Repositório
 
@@ -26,12 +23,6 @@ Portifólio_DBA
 |--- Segurança
 
 |--- Backup e Restore
-
-|--- Monitoramento e Perfomance
-
-|--- Automatização de tarefas
-
-|--- Alta disponibilidade
 <br></br>
 
 > Cada pasta representa uma área essencial para um Administrador de banco de dados SQL Server
